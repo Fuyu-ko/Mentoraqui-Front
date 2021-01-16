@@ -1,0 +1,52 @@
+body{
+	background-color: #A5F8C1;
+	text-align: center;
+}
+
+form{
+	display: inline-block;
+	width: 30%;
+}
+
+input.form-control{
+	text-align: center;
+}
+
+h1{
+	font-family: 'Trebuchet MS', sans-serif;;
+}
+
+a.btn{
+	background-color: #224818;
+	border-color: #224818;
+	width: 100%;
+	color: white;
+}
+
+a.btn:hover{
+	background-color: #5BA13B;
+	border-color: #5BA13B;
+	color: white;
+}
+
+.menu{
+	background-color: #A5F8C1;
+	border-color: #A5F8C1;
+	border-radius: 0px 0px 0px 0px;
+	margin-bottom: 0px;
+}
+
+.meio{
+	background-color: yellow;
+}
+
+.footer{
+	position: fixed;
+	overflow: hidden;
+	width: 100%;
+	bottom: 0;
+	border-radius: 0px 0px 0px 0px;
+	margin-bottom: 0px;
+	background-color: #224818;
+	border-color: #224818;
+}
