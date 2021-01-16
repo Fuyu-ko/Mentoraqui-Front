@@ -4,16 +4,23 @@
 	<title></title>
 </head>
 <body>
-	<nav class="navbar navbar-inverse footer">
-		<div class="container-fluid">
-			<ul class="nav navbar-nav">
-				<li><a href="../index.php">Home</a></li>
-				<li><a href="#">Sobre</a></li>
-				<li><a href="#">Contato</a></li>
-				<li><a href="#">Privacidade</a></li>
-				<li><a href="#">Termos</a></li>
-			</ul>
-		</div>
-	</nav>
+	<div class="footer">
+		<table class="table">
+			<tr>
+				<td><img class="footImg" src="../imagens/patrocinio.png"></td>
+				<td><img class="footImg" src="../imagens/seguranca.png"></td>
+				<td></td>
+			</tr>
+		</table>
+		<table class="table">
+			<tr>
+				<td><a class="badge" href="../index.php">Home</a></td>
+				<td><a class="badge" href="#">Sobre</a></td>
+				<td><a class="badge" href="#">Contato</a></td>
+				<td><a class="badge" href="#">Privacidade</a></td>
+				<td><a class="badge" href="#">Termos</a></td>
+			</tr>
+		</table>
+	</div>
 </body>
 </html>

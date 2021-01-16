@@ -7,6 +7,9 @@
 <body>
 <?php require "../menu/navbar.php";?>
 
+	<div>
+		<img class="icoLogin" src="../imagens/iconeAzul.png">
+	</div>
 	<div class="container-fluid">
 		<h1>ACESSAR</h1>
 	</div>
@@ -24,7 +27,6 @@
 			</div>
 		</form>
 	</div>
-
 
 <?php require "../menu/footer.php";?>
 </body>

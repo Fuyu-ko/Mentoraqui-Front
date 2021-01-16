@@ -13,7 +13,7 @@
 				<li><a href="#">Contato</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="login.php">Acessar</a></li>
+				<a href="login.php"><img class="icoAcessar" src="../imagens/iconeAzul.png" title="Acessar"></a>
 			</ul>
 		</div>
 	</nav>

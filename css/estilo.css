@@ -1,5 +1,5 @@
 body{
-	background-color: #A5F8C1;
+	background-color: #060E0B;
 	text-align: center;
 }
 
@@ -12,15 +12,31 @@ input.form-control{
 	text-align: center;
 }
 
+#selectCenter{
+	text-align: center;
+}
+
 h1{
-	font-family: 'Trebuchet MS', sans-serif;;
+	font-family: 'Trebuchet MS', sans-serif;
+	margin-bottom: 2%;
+	color: #FFFFFF;
+}
+
+h4{
+	color: #FFFFFF;
 }
 
 a.btn{
-	background-color: #224818;
-	border-color: #224818;
+	background-color: #23B5B5;
+	border-color: #23B5B5;
 	width: 100%;
 	color: white;
+	margin-top: 1%;
+	margin-bottom: 3%;
+}
+
+a.botao{
+	width: 40%;
 }
 
 a.btn:hover{
@@ -29,24 +45,62 @@ a.btn:hover{
 	color: white;
 }
 
+nav.navbar li:hover{
+	background-color: #5BA13B;
+	border-color: #5BA13B;
+}
+
+.icoAcessar{
+	width: 32px;
+	padding: 0px;
+	margin: 8px;
+}
+
+.icoLogin{
+	width: 12%;
+	margin-top: 20px;
+}
+
+.icoLogo{
+	margin-bottom: -10px;
+	margin-top: -2%;
+}
+
 .menu{
-	background-color: #A5F8C1;
-	border-color: #A5F8C1;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
 	border-radius: 0px 0px 0px 0px;
 	margin-bottom: 0px;
 }
 
-.meio{
-	background-color: yellow;
-}
-
 .footer{
-	position: fixed;
+	position: absolute;
 	overflow: hidden;
 	width: 100%;
 	bottom: 0;
 	border-radius: 0px 0px 0px 0px;
 	margin-bottom: 0px;
-	background-color: #224818;
-	border-color: #224818;
+}
+
+table.table{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	bottom: 0;
+	margin: 0px;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+
+.footImg{
+	width: 30%;
+}
+
+a.badge{
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+a.badge:hover{
+	color: #5BA13B;
 }
