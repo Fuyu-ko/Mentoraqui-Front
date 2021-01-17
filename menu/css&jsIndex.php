@@ -14,15 +14,15 @@
 	<!--CSS proprio-->
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 
-	<!--Silex-->
+	<!--Silex
 	<?php
-		use Silex\Application;
-		require 'api-events/vendor/autoload.php';
-		$app = new Application();
-		$app->get('/', function(){
-    		return '';
-		});
-	?>
+//		use Silex\Application;
+//		require '../api-events/vendor/autoload.php';
+//		$app = new Application();
+//		$app->get('/', function(){
+//    		return '';
+//		});
+	?>-->
 
 	<title></title>
 </head>

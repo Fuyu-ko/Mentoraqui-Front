@@ -92,6 +92,51 @@ table.table{
 	border-color: #D6D6D6;
 }
 
+table.triagem{
+	width: 50%;
+	margin: auto;
+	border-radius: 10px;
+	margin-top: -1%;
+}
+
+td.triagemtd{
+	border-right: 2px solid #060E0B;
+}
+
+td.active{
+	color: #23B5B5;
+}
+
+td.respondido{
+	color: #5BA13B;
+}
+
+table.tTriagem{
+	background-color:  #060E0B;
+	margin: auto;
+	width: 55%;
+	padding: 30px;
+}
+
+button.btn{
+	background-color: #23B5B5;
+	border-color: #23B5B5;
+	width: 90%;
+	color: white;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+button.btn:hover{
+	background-color: #5BA13B;
+	border-color: #5BA13B;
+	color: white;
+}
+
+a.btnTriagem{
+	width: 15%;
+}
+
 .footImg{
 	width: 30%;
 }
@@ -103,4 +148,8 @@ a.badge{
 
 a.badge:hover{
 	color: #5BA13B;
+}
+
+select.sCidEst{
+	margin-top: 20px;
 }
