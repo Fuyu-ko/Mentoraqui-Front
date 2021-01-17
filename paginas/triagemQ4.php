@@ -70,7 +70,7 @@
 		</table>
 	<div class="container-fluid">
 		<div class="form-group">
-			<a class="btn btn-default btnTriagem" href="usuario.php" role="button">Próximo</a>
+			<a class="btn btn-default btnTriagem" href="selectMentor.php" role="button">Próximo</a>
 		</div>
 	</div>
 

@@ -10,23 +10,20 @@
 		$cssC1 = "../css/estilo.css";
 		$cssC2 = "css/estilo.css";
 
-		$jsC1 = "../js/js.js";
-		$jsC2 = "js/js.js";
-
 		$home1 = "../index.php";
 		$home2 = "index.php";
 
-		$sobre1 = "#";
-		$sobre2 = "#";
+		$sobre1 = "emDesenvolvimento.php";
+		$sobre2 = "paginas/emDesenvolvimento.php";
 
-		$contato1 = "#";
-		$contato2 = "#";
+		$contato1 = "contatos.php";
+		$contato2 = "paginas/contatos.php";
 
-		$priv1 = "#";
-		$priv2 = "#";
+		$priv1 = "emDesenvolvimento.php";
+		$priv2 = "paginas/emDesenvolvimento.php";
 
-		$termos1 = "#";
-		$termos2 = "#";
+		$termos1 = "emDesenvolvimento.php";
+		$termos2 = "paginas/emDesenvolvimento.php";
 
 		$loginA1 = "login.php";
 		$loginA2 = "paginas/login.php";

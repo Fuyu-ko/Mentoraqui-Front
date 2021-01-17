@@ -22,7 +22,7 @@
 				<input type="password" class="form-control" name="" placeholder="Senha">
 			</div>
 			<div class="form-group">
-				<a class="btn btn-default" href="usuario.php?user=X" role="button">Confirmar</a>
+				<a class="btn btn-default" href="menu.php" role="button">Confirmar</a>
 				<a class="btn btn-default" href="cadastro.php" role="button">Cadastrar</a>
 			</div>
 		</form>
