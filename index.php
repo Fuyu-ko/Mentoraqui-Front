@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <?php require "menu/css&jsIndex.php";?>
 	<title></title>
 </head>
@@ -19,7 +20,7 @@
 	<div class="container-fluid">
 		<a class="btn btn-default botao" href="paginas/cadastro.php" role="button">Cadastrar</a>
 	</div>
-	
+
 <?php require "menu/footerIndex.php";?>
 </body>
 </html>

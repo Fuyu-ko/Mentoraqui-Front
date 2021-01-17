@@ -9,7 +9,7 @@
 			<tr>
 				<td><img class="footImg" src="../imagens/patrocinio.png"></td>
 				<td><img class="footImg" src="../imagens/seguranca.png"></td>
-				<td></td>
+				<td><img class="footImg" src="../imagens/webfaculdade.png"></td>
 			</tr>
 		</table>
 		<table class="table">

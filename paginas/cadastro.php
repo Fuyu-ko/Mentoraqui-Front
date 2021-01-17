@@ -35,7 +35,7 @@
 			  	</select>
 			</div>
 			<div class="form-group">
-				<a class="btn btn-default" href="#" role="button">Confirmar</a>
+				<a class="btn btn-default" href="triagemQ1.php" role="button">Confirmar</a>
 			</div>
 		</form>
 	</div>
