@@ -36,6 +36,7 @@
 			</div>
 			<div class="form-group">
 				<a class="btn btn-default" href="triagemQ1.php" role="button">Confirmar</a>
+				<a class="btn btn-default" href="../index.php" role="button">Cancelar</a>
 			</div>
 		</form>
 	</div>
