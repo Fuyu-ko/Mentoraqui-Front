@@ -2,11 +2,11 @@
 <html>
 <head>
 
-<?php require "menu/css&jsIndex.php";?>
+<?php require "menu/css&js.php";?>
 	<title></title>
 </head>
 <body>
-<?php require "menu/navbarIndex.php";?>
+<?php require "menu/navbar.php";?>
 	
 	<div class="container-fluid">
 		<img class="icoLogo" src="imagens/logoCentersf.png">
@@ -21,6 +21,6 @@
 		<a class="btn btn-default botao" href="paginas/cadastro.php" role="button">Cadastrar</a>
 	</div>
 
-<?php require "menu/footerIndex.php";?>
+<?php require "menu/footer.php";?>
 </body>
 </html>
