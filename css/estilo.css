@@ -304,10 +304,20 @@ img.icoEmDev{
 
 table.contato{
 	width: 100%;
-	
+	display: inline-block;
 }
 
 div.cartaoContato{
-	background-color: #FFFFFF;
-	border-radius: 50%;
+	border-radius: 5px;
+	display: inline-block;
+	margin-top: 15%;
+}
+
+img.conIcon{
+	width: 10%;
+}
+
+h5.contTxt{
+	margin-left: -40%;
+	color: #FFFFFF;
 }
